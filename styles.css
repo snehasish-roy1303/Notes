@@ -1,0 +1,39 @@
+body
+{
+	background-color: teal;
+	text-align: center;
+}
+.heading
+{
+	color: whitesmoke;
+	padding: 3% 10%;
+}
+.container
+{
+	padding: 5% 9%;
+	margin-top: 50px;
+	text-align: left;
+	color: white;
+}
+.bord
+{
+	border: 2px solid white;
+	padding: 3% 5%;
+	border-radius: 1%;
+	color: white;
+}
+.tex
+{
+	width: 90%;
+	height: 50%;
+	border-radius: 2%;
+}
+#notes1
+{
+	color: black;
+}
+#sam
+{
+	text-align: center;
+	color: whitesmoke;
+}
